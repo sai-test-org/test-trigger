@@ -6,7 +6,6 @@
 
 ## B
 * toyota
-* honda
 
 ## C
 * random
